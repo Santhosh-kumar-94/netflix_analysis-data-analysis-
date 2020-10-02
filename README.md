@@ -1,2 +1,11 @@
 # netflix_analysis-data-analysis-
-A analysis on netflix dataset.
+
+An analysis on thousands of Movies and TV Shows netflix dataset.
+
+Library Used : 
+
+1. Numpy
+
+2. Pandas
+
+3. Matplotlib.pyplot
